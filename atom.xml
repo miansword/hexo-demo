@@ -5,7 +5,7 @@
   <subtitle><![CDATA[快速建站系统]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-06-17T07:28:34.000Z</updated>
+  <updated>2015-06-24T08:46:27.000Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title><![CDATA[我TM只是一个标题]]></title>
-    <link href="http://yoursite.com/2015/05/31/%E6%88%91TM%E5%8F%AA%E6%98%AF%E4%B8%80%E4%B8%AA%E6%A0%87%E9%A2%98/"/>
-    <id>http://yoursite.com/2015/05/31/我TM只是一个标题/</id>
+    <link href="http://yoursite.com/%E6%88%91TM%E5%8F%AA%E6%98%AF%E4%B8%80%E4%B8%AA%E6%A0%87%E9%A2%98/"/>
+    <id>http://yoursite.com/我TM只是一个标题/</id>
     <published>2015-05-31T13:21:59.000Z</published>
-    <updated>2015-06-17T07:28:34.000Z</updated>
+    <updated>2015-06-24T08:46:27.000Z</updated>
     <content type="html"><![CDATA[<h2 id="欢迎使用马克飞象">欢迎使用马克飞象</h2><p><img src="http://ww1.sinaimg.cn/large/61b40091gw1et74d8audoj20qo0k0dj7.jpg" alt="哈哈"></p>
 <p><strong>马克飞象</strong>是一款专为印象笔记（Evernote）打造的Markdown编辑器，通过精心的设计与技术实现，配合印象笔记强大的存储和同步功能，带来前所未有的书写体验。特点概述：</p>
 <ul>
@@ -90,7 +90,7 @@
 <h2 id="关于收费">关于收费</h2><p><strong>马克飞象</strong>为新用户提供 10 天的试用期，试用期过后需要<a href="maxiang.info/vip.html">续费</a>才能继续使用。未购买或者未及时续费，将不能同步新的笔记。之前保存过的笔记依然可以编辑。</p>
 <h2 id="反馈与建议">反馈与建议</h2><ul>
 <li>微博：<a href="http://weibo.com/u/2788354117" target="_blank" rel="external">@马克飞象</a>，<a href="http://weibo.com/ggock" title="开发者个人账号" target="_blank" rel="external">@GGock</a></li>
-<li>邮箱：<a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#x68;&#117;&#x73;&#x74;&#103;&#x6f;&#99;&#x6b;&#64;&#x67;&#109;&#x61;&#105;&#108;&#46;&#99;&#x6f;&#109;">&#x68;&#117;&#x73;&#x74;&#103;&#x6f;&#99;&#x6b;&#64;&#x67;&#109;&#x61;&#105;&#108;&#46;&#99;&#x6f;&#109;</a></li>
+<li>邮箱：<a href="&#109;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#104;&#x75;&#115;&#x74;&#x67;&#111;&#99;&#x6b;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;">&#104;&#x75;&#115;&#x74;&#x67;&#111;&#99;&#x6b;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;</a></li>
 </ul>
 <hr>
 <p>感谢阅读这份帮助文档。请点击右上角，绑定印象笔记账号，开启全新的记录与分享体验吧。</p>
@@ -112,14 +112,16 @@
     
       <category term="标签" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE/"/>
     
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
   </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2015/05/31/hello-world/"/>
-    <id>http://yoursite.com/2015/05/31/hello-world/</id>
+    <link href="http://yoursite.com/hello-world/"/>
+    <id>http://yoursite.com/hello-world/</id>
     <published>2015-05-31T09:42:07.000Z</published>
-    <updated>2015-06-15T04:49:16.000Z</updated>
+    <updated>2015-06-19T09:00:29.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
 <h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
@@ -134,6 +136,12 @@
     <![CDATA[<p>Welcome to <a href="http://hexo.io/">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.<br>]]>
     
     </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="keywords1" scheme="http://yoursite.com/tags/keywords1/"/>
+    
+      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
     
   </entry>
   
